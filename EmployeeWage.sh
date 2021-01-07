@@ -1,6 +1,6 @@
 #!/bin/bash -x
 
-echo "Welcome to Employeewage"
+echo " Welcome to Employeewage "
 
 isPresent=1;
 isPartTime=2;
